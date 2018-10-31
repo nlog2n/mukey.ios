@@ -1,0 +1,1 @@
+int check_kproc_pids(void);

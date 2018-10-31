@@ -1,0 +1,1 @@
+void deny_ptrace_attach();
